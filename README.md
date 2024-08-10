@@ -3,7 +3,7 @@
 
 ## 👋 Greetings, I'm Gethsun!
 
-As a **Full-Stack Blockchain & Web Developer**, I am driven by a passion for revolutionizing technology and pushing the boundaries of what's possible in the Web3 space. My expertise covers a wide spectrum of advanced tools, including **Solidity**, **Rust**, **Move**, and the foundational trifecta of **HTML5**, **CSS3**, and **JavaScript**. I specialize in building innovative Web3 Dapps, constantly exploring new ways to enhance the blockchain ecosystem.
+As a **Full-Stack Blockchain & Web3 Developer**, I am driven by a passion for revolutionizing technology and pushing the boundaries of what's possible in the Web3 space. My expertise covers a wide spectrum of advanced tools, including **Solidity**, **Rust**, **Move**, and the foundational trifecta of **HTML5**, **CSS3**, and **JavaScript**. I specialize in building innovative Web3 Dapps, constantly exploring new ways to enhance the blockchain ecosystem.
 
 ### 🚀 Automation & AI Enthusiast
 
