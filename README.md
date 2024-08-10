@@ -22,7 +22,7 @@ I’m proud to have participated in and won accolades in recent hackathons:
 
 I believe that collaboration is the engine of innovation. Working with like-minded individuals and teams is where creativity truly thrives. I am always open to partnerships and discussions on workflow automation projects or any other cutting-edge technological endeavors. Let's explore how we can innovate together.
 
-Feel free to reach out to me at **gethsun09@gmail.com** for collaboration opportunities or to discuss the ever-evolving world of technology. Explore my projects and see how my skills can complement your next big idea at **[GitHub Profile](https://github.com/gethsun1)**.
+Feel free to reach out to me at **gethsun09@gmail.com** for collaboration opportunities or to discuss the ever-evolving world of technology. Explore my projects and see how my skills can complement your next big idea
 
 Let's connect and navigate the exciting world of technology together!
 
