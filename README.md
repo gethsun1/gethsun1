@@ -122,6 +122,13 @@
   <img src="https://github.com/gethsun1/gethsun1/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </div>
 
+<!-- Alternative snake if the above doesn't work -->
+<!-- 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gethsun1/gethsun1/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</div>
+-->
+
 
 
 ---
