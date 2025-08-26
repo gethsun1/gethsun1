@@ -1,1 +1,138 @@
-<svg viewBox="-16 -32 48 96" width="48" height="96" xmlns="http://www.w3.org/2000/svg"><desc>Generated with https://github.com/Platane/snk</desc><style>@keyframes s0{0%{transform:translate(0,-16px)}}@keyframes s1{0%{transform:translate(16px,-16px)}}@keyframes s2{0%{transform:translate(32px,-16px)}}@keyframes s3{0%{transform:translate(48px,-16px)}}:root{--cb:#1b1f230a;--cs:purple;--ce:#ebedf0;--c0:#ebedf0;--c1:#9be9a8;--c2:#40c463;--c3:#30a14e;--c4:#216e39}@media (prefers-color-scheme:dark){:root{--cb:#1b1f230a;--cs:purple;--ce:#161b22;--c1:#01311f;--c2:#034525;--c3:#0f6d31;--c4:#00c647}}.c{shape-rendering:geometricPrecision;fill:var(--ce);stroke-width:1px;stroke:var(--cb);animation:none 100ms linear infinite}.s,.u{animation:none linear 100ms infinite}.u{transform-origin:0 0;transform:scale(0,1)}.s{shape-rendering:geometricPrecision;fill:var(--cs)}.s.s0{transform:translate(0,-16px);animation-name:s0}.s.s1{transform:translate(16px,-16px);animation-name:s1}.s.s2{transform:translate(32px,-16px);animation-name:s2}.s.s3{transform:translate(48px,-16px);animation-name:s3}</style><rect class="s s0" x="0.8" y="0.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/><rect class="s s1" x="1.8" y="1.8" width="12.3" height="12.3" rx="4.1" ry="4.1"/><rect class="s s2" x="2.6" y="2.6" width="10.8" height="10.8" rx="3.6" ry="3.6"/><rect class="s s3" x="3.0" y="3.0" width="9.9" height="9.9" rx="3.3" ry="3.3"/></svg>
+<svg viewBox="-16 -32 48 96" width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
+  <desc>Generated with https://github.com/Platane/snk</desc>
+  <style>
+    @keyframes s0{0%{transform:translate(0,-16px)}}
+    @keyframes s1{0%{transform:translate(16px,-16px)}}
+    @keyframes s2{0%{transform:translate(32px,-16px)}}
+    @keyframes s3{0%{transform:translate(48px,-16px)}}
+    :root{
+      --cb:#1b1f230a;
+      --cs:#00D4FF;
+      --ce:#161b22;
+      --c0:#ebedf0;
+      --c1:#01311f;
+      --c2:#034525;
+      --c3:#0f6d31;
+      --c4:#00c647
+    }
+    @media (prefers-color-scheme:dark){
+      :root{
+        --cb:#1b1f230a;
+        --cs:#00D4FF;
+        --ce:#161b22;
+        --c1:#01311f;
+        --c2:#034525;
+        --c3:#0f6d31;
+        --c4:#00c647
+      }
+    }
+    .c{
+      shape-rendering:geometricPrecision;
+      fill:var(--ce);
+      stroke-width:1px;
+      stroke:var(--cb);
+      animation:none 100ms linear infinite
+    }
+    .s,.u{
+      animation:none linear 100ms infinite
+    }
+    .u{
+      transform-origin:0 0;
+      transform:scale(0,1)
+    }
+    .s{
+      shape-rendering:geometricPrecision;
+      fill:var(--cs)
+    }
+    .s.s0{
+      transform:translate(0,-16px);
+      animation-name:s0
+    }
+    .s.s1{
+      transform:translate(16px,-16px);
+      animation-name:s1
+    }
+    .s.s2{
+      transform:translate(32px,-16px);
+      animation-name:s2
+    }
+    .s.s3{
+      transform:translate(48px,-16px);
+      animation-name:s3
+    }
+  </style>
+  
+  <!-- Title -->
+  <text x="50%" y="20" text-anchor="middle" fill="#00D4FF" font-family="monospace" font-size="16" font-weight="bold">🐍 Contribution Snake</text>
+  
+  <!-- Snake -->
+  <rect class="s s0" x="0.8" y="40.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="s s1" x="1.8" y="41.8" width="12.3" height="12.3" rx="4.1" ry="4.1"/>
+  <rect class="s s2" x="2.6" y="42.6" width="10.8" height="10.8" rx="3.6" ry="3.6"/>
+  <rect class="s s3" x="3.0" y="43.0" width="9.9" height="9.9" rx="3.3" ry="3.3"/>
+  
+  <!-- Contribution grid -->
+  <rect class="c" x="0.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="16.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="32.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="48.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="64.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="80.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="96.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="112.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="128.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="144.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="160.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="176.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="192.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="208.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="224.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="240.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="256.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="272.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="288.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="304.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="320.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="336.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="352.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="368.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="384.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="400.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="416.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="432.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="448.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="464.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="480.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="496.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="512.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="528.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="544.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="560.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="576.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="592.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="608.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="624.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="640.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="656.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="672.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="688.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="704.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="720.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="736.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="752.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="768.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="784.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="800.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="816.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="832.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="848.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="864.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="880.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="896.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="912.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="928.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="944.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="960.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="976.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+  <rect class="c" x="992.8" y="60.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/>
+</svg>

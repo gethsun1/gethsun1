@@ -11,18 +11,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate Snake
-        uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: gethsun1
-          svg_out_path: output/github-contribution-grid-snake-dark.svg
-          snake_color: '00D4FF'
-
       - name: Commit and push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add output/github-contribution-grid-snake-dark.svg
+          git add output/
           git diff --quiet && git diff --staged --quiet || git commit -m "Update snake"
           git push
