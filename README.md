@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=100&lines=Hello%2C+I'm+Gethsun+Misesi;Web3+%26+Blockchain+Architect;Building+the+Future+of+DeFi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1400&color=00D4FF&center=true&vCenter=true&width=900&height=160&lines=Hello%2C+I'm+Gethsun+Misesi;Web3+%26+Blockchain+Architect;Building+the+Future+of+DeFi;Biotech-rooted+Innovator+bridging+Science+and+Code;Hackathon+Winner+crafting+scalable+Web3+dApps;Advocating+for+Blockchain+Adoption+in+Africa" alt="Typing SVG" />
 </div>
 
 <div align="center">
